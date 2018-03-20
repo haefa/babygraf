@@ -4,4 +4,4 @@
 vegetable and fruit. The goals is to save the childern by growing the vegetables
 and fruits to attack the virus and bacteria.
 
-Build for Computer Graphics' Lecture with [Adam](github.com/adamalfirdauz) and [Romano](https://github.com/romanodiansyah).
+Build for Computer Graphics' Course with [Adam](github.com/adamalfirdauz) and [Romano](https://github.com/romanodiansyah).
