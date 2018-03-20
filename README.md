@@ -1,4 +1,4 @@
-# babygraf
+# Baby Graf
 
 **Tower Defense Game**, 2D dekstop game build to educate childern to likes
 vegetable and fruit. The goals is to save the childern by growing the vegetables
